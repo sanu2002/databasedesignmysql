@@ -50,6 +50,8 @@ Stored Procedures and Functions:
 
 
 -----------------------------------------------------------------------------------------
+
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 Creating and using stored procedures.
 Writing user-defined functions.
 Passing parameters and handling results.
@@ -61,7 +63,7 @@ Transactions and Concurrency:
 
 Done  **************************************
 
-
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 -------------------------------------------------------------
 
 ACID properties of transactions.

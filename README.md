@@ -61,14 +61,16 @@ Creating triggers for automatic actions on data changes.
 BEFORE and AFTER triggers.
 Transactions and Concurrency:
 
+ACID properties of transactions.
+Isolation levels and their implications.
+Backup and Recovery:
+
+
 Done  **************************************
 
 ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 -------------------------------------------------------------
 
-ACID properties of transactions.
-Isolation levels and their implications.
-Backup and Recovery:
 
 
 ----------------------------------------------------

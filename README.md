@@ -106,7 +106,7 @@ Query optimization techniques.
 InnoDB buffer pool and configuration.
 Replication and High Availability:
 
-
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅continued......
 
 ----------------------------------------------------------
 Understanding of replication.

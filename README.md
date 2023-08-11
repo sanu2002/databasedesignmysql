@@ -85,6 +85,19 @@ Securing sensitive data.
 Authentication methods.
 Performance Tuning:
 
+default_authentication_plugin = plugin_name
+default_authentication_plugin = caching_sha2_password
+
+
+
+select * from data;
+
+create user  'salu'@'localhost' identified with 'caching_sha2_password' by 'Sanu@2002';
+
+
+THIS IS THE WAY U CAN SECURE YOUR PASSWORD
+
+
 
 
 ------------------------------------------------------------

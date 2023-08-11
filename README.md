@@ -79,7 +79,7 @@ Point-in-time recovery.
 User Management and Security:
 
 -------------------------------------------------------------
-
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 Creating users and granting privileges.
 Securing sensitive data.
 Authentication methods.
@@ -96,7 +96,7 @@ create user  'salu'@'localhost' identified with 'caching_sha2_password' by 'Sanu
 
 
 THIS IS THE WAY U CAN SECURE YOUR PASSWORD
-
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 
 
 

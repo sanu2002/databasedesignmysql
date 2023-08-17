@@ -116,7 +116,7 @@ MySQL Storage Engines:
 
 
 ------------------------------------------------------------
-
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 Understanding of InnoDB and MyISAM storage engines.
 Differences and when to use each.
 MySQL Command-Line Tools:
@@ -124,7 +124,7 @@ MySQL Command-Line Tools:
 Familiarity with MySQL command-line client.
 Running queries, importing/exporting data.
 Common MySQL Functions:
-
+✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
 
 ---------------------------------------------------------------------
 GROUP_CONCAT, IFNULL, COALESCE, DATE functions, etc.

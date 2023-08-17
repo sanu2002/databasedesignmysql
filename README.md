@@ -112,11 +112,12 @@ Replication and High Availability:
 Understanding of replication.
 Master-slave replication setup.
 High availability architectures using MySQL.
-MySQL Storage Engines:
 
 
 ------------------------------------------------------------
 ✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅✅
+MySQL Storage Engines:
+
 Understanding of InnoDB and MyISAM storage engines.
 Differences and when to use each.
 MySQL Command-Line Tools:
